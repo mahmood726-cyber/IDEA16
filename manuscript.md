@@ -34,9 +34,9 @@ Current guidelines for ICD implantation in NICM are based on meta-analyses that 
 
 Today, that baseline risk no longer exists. A pooled analysis of 40,195 patients from 12 heart failure trials spanning 1995-2014 demonstrated a 44% decline in the annual rate of sudden cardiac death, from 6.5% in the earliest trials to 3.3% in the most recent trials (PARADIGM-HF, 2014).[8,14] This corresponds to a decline from approximately 13% to 6.6% over 2 years—and critically, this 2014 data preceded the widespread use of SGLT2 inhibitors, which further reduce arrhythmic risk.[9,10] Yet we continue to apply the 23% relative risk reduction from historical meta-analyses to guide ICD implantation, just as we once applied the 12% relative risk reduction for aspirin to populations whose baseline risk had fallen substantially.
 
-The DANISH trial (2016), the only large ICD trial conducted in a partially modern GDMT era, found no mortality benefit from ICDs in NICM.[11] Like ARRIVE, ASCEND, and ASPREE for aspirin, DANISH may be the signal that the old meta-analyses are no longer valid (Figure 1).
+The DANISH trial (2016), the only large ICD trial conducted in a partially modern GDMT era, found no mortality benefit from ICDs in NICM.[11] Like ARRIVE, ASCEND, and ASPREE for aspirin, DANISH may be the signal that the old meta-analyses are no longer valid (Figures 1, 4).
 
-This paper examines whether ICD meta-analyses in NICM have become obsolete, quantifies the expected benefit when historical relative risk reductions are applied to contemporary baseline risks (Figures 2-3), and argues—based on the aspirin precedent—that new randomized trials in the GDMT era are urgently needed before we continue implanting thousands of devices annually based on evidence from a therapeutic era that no longer exists.
+This paper examines whether ICD meta-analyses in NICM have become obsolete, quantifies the expected benefit when historical relative risk reductions are applied to contemporary baseline risks (Figures 2-4), and argues—based on the aspirin precedent—that new randomized trials in the GDMT era are urgently needed before we continue implanting thousands of devices annually based on evidence from a therapeutic era that no longer exists.
 
 ---
 
@@ -179,10 +179,10 @@ DANISH (2016) is the only large ICD trial conducted in a partially modern GDMT e
 - **ARNi and SGLT2i:** Not yet available during trial enrollment
 - **Primary outcome:** All-cause mortality
 
-**Results:**
+**Results** (Figure 4):
 - **No mortality benefit** (HR 0.87, 95% CI 0.68-1.12, p=0.28)
-- SCD reduction: Yes (HR 0.50, p<0.01)
-- But **no all-cause mortality benefit** due to non-SCD deaths unchanged
+- **SCD reduction: Yes** (HR 0.50, 95% CI 0.31-0.82, p<0.01) — ICD reduced SCD from 8.2% to 4.3%
+- But **no all-cause mortality benefit** due to competing risks: non-SCD deaths increased from 15.2% to 17.3% in ICD group
 
 **Interpretation:** DANISH is to ICDs what ARRIVE/ASCEND/ASPREE were to aspirin—a trial in a contemporary population showing that the old benefit has vanished. Critically, **DANISH was conducted before ARNi and SGLT2i became available**. If ICDs showed no mortality benefit even before these therapies further reduced SCD risk, the benefit in the current GDMT era is likely even smaller or absent.
 
@@ -531,6 +531,24 @@ The aspirin reversal took a decade. We should not wait another decade for ICDs.
 **Alternative representation**: Tree diagram showing that in pre-GDMT era (RALES 1998), treating 100 patients prevents ~3 SCDs but causes ~3.3 harms (ratio 1:1.1), whereas in partial GDMT era, treating 100 patients prevents ~1.5 SCDs but causes ~3.3 harms (ratio 1:2.2), and in full GDMT era, treating 100 patients prevents ~1.1-1.3 SCDs but causes ~3.3 harms (ratio 1:2.5-3).
 
 *See `figures/figure3_nnt_inflation.md` for detailed visual specifications and alternative designs.*
+
+---
+
+### Figure 4: DANISH Trial Results — SCD Reduction Without Mortality Benefit
+
+**Two-panel Kaplan-Meier style comparison** showing DANISH trial results (N=1,116 NICM patients, 2008-2014 enrollment):
+
+- **Panel A (Sudden Cardiac Death)**: ICD significantly reduced SCD compared to no ICD. Control group: 8.2% SCD at 5 years. ICD group: 4.3% SCD at 5 years. Hazard ratio 0.50 (95% CI 0.31-0.82), P<0.01. Curves diverge early, showing clear ICD benefit for preventing sudden death. Annotation: "✓ SCD Reduced"
+
+- **Panel B (All-Cause Mortality)**: ICD did NOT significantly reduce overall mortality. Control group: 23.4% mortality at 5 years. ICD group: 21.6% mortality at 5 years. Hazard ratio 0.87 (95% CI 0.68-1.12), P=0.28. Curves nearly overlap, showing no overall survival benefit. Annotation: "✗ No Mortality Benefit"
+
+**Key observation**: The 3.9% absolute reduction in SCD (Panel A) was offset by an apparent 2.1% increase in non-sudden cardiac deaths in the ICD group (from 15.2% to 17.3%), resulting in a non-significant 1.8% reduction in overall mortality (Panel B). This demonstrates **competing risks**—patients saved from sudden death died from other causes (progressive heart failure, cancer, other cardiovascular deaths).
+
+**Clinical implication**: DANISH is the ICD equivalent of ARRIVE, ASCEND, and ASPREE for aspirin—a trial in a contemporary population (partial GDMT era, before ARNi/SGLT2i) showing that the benefit from historical meta-analyses has vanished. If ICDs showed no mortality benefit even before ARNi and SGLT2i further reduced baseline SCD risk, the benefit in the current full GDMT era is likely even smaller or absent.
+
+**Visual design**: Dual Kaplan-Meier curves with clear separation in Panel A (SCD benefit) but minimal separation in Panel B (no mortality benefit). Alternative design options include side-by-side bar charts or stacked bar charts showing causes of death.
+
+*See `figures/figure4_danish_competing_risks.md` for detailed visual specifications, data tables, and alternative designs.*
 
 ---
 
