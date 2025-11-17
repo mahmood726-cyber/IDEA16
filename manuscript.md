@@ -161,9 +161,9 @@ If we apply the same 23% relative risk reduction from historical meta-analyses t
 
 **Summary:**
 
-| Era | Baseline SCD Risk (2y) | RRR | ARR | NNT | vs. Historical |
+| Era | Baseline SCD Risk (2y) | RRR | ARR | NNT | vs. RALES 1998 |
 |-----|----------------------|-----|-----|-----|---------------|
-| **Historical (1998)** | 13% | 23% | 2.99% | **33** | Baseline |
+| **RALES (1998)** | 13% | 23% | 2.99% | **33** | Baseline |
 | **Partial GDMT (2014)** | 6.6% | 23% | 1.52% | **66** | +100% |
 | **Full GDMT (2020+, est.)** | 4.6-5.3% | 23% | 1.06-1.22% | **82-94** | +148-185% |
 
