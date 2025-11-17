@@ -8,7 +8,7 @@
 
 **Methods:** We performed a systematic analysis of baseline SCD risk in historical ICD trials versus contemporary GDMT-era cohorts. We simulated the expected benefit of ICDs when the historical relative risk reduction (23% from meta-analyses) is applied to modern baseline SCD rates. We compared our findings to the aspirin primary prevention experience, where trials in the statin era (ARRIVE, ASCEND, ASPREE, 2018) contradicted meta-analyses from the pre-statin era.
 
-**Results:** Historical ICD trials (1990s-2000s) had control group SCD rates of 8-10% over 2 years. A pooled analysis of 12 contemporary heart failure trials (1995-2014) demonstrated a 44% decline in sudden cardiac death rates, from 6.5% annually (1998) to 3.3% annually (2014), corresponding to a decline from ~13% to ~6.6% over 2 years. Applying the 23% relative risk reduction from historical meta-analyses to modern baseline risk yields a number-needed-to-treat (NNT) of 66, compared to the historical NNT of 43-54, representing a 22-53% increase. Critically, the 2014 data preceded widespread SGLT2i use, suggesting contemporary SCD rates may be even lower. This mirrors aspirin primary prevention, where modern trials contradicted historical meta-analyses as baseline risk fell due to statins.
+**Results:** Historical ICD trials (1990s-2000s) had control group SCD rates of 8-10% over 2 years. A pooled analysis of 12 contemporary heart failure trials (1995-2014) demonstrated a 44% decline in sudden cardiac death rates, from 6.5% annually (1998) to 3.3% annually (2014), corresponding to a decline from ~13% to ~6.6% over 2 years. Applying the 23% relative risk reduction from historical meta-analyses to modern baseline risk yields a number-needed-to-treat (NNT) of 66, compared to the historical NNT of 33-54 (depending on baseline: heart failure trials vs. ICD trials), representing a 22-100% increase. Critically, the 2014 data preceded widespread SGLT2i use, suggesting contemporary SCD rates may be even lower. This mirrors aspirin primary prevention, where modern trials contradicted historical meta-analyses as baseline risk fell due to statins.
 
 **Conclusions:** ICD meta-analyses in NICM may be obsolete. Like aspirin primary prevention before it, the evidence base was derived from a therapeutic era that no longer exists. New randomized trials in contemporary GDMT populations are urgently needed.
 
@@ -163,11 +163,11 @@ If we apply the same 23% relative risk reduction from historical meta-analyses t
 
 | Era | Baseline SCD Risk (2y) | RRR | ARR | NNT | vs. Historical |
 |-----|----------------------|-----|-----|-----|---------------|
-| **Historical (1998)** | 13% | 23% | 2.99% | **43** | Baseline |
-| **Partial GDMT (2014)** | 6.6% | 23% | 1.52% | **66** | +53% |
-| **Full GDMT (2020+, est.)** | 4.6-5.3% | 23% | 1.06-1.22% | **82-94** | +91-119% |
+| **Historical (1998)** | 13% | 23% | 2.99% | **33** | Baseline |
+| **Partial GDMT (2014)** | 6.6% | 23% | 1.52% | **66** | +100% |
+| **Full GDMT (2020+, est.)** | 4.6-5.3% | 23% | 1.06-1.22% | **82-94** | +148-185% |
 
-**The NNT has increased by 53% even before considering SGLT2i** (Figure 3). Meanwhile, the number-needed-to-harm (device complications, inappropriate shocks, lead failures) remains unchanged at approximately 30. The NNT/NNH ratio has deteriorated from 1.4 (favorable) in the historical era to 2.2 (marginal) in the partial GDMT era, and potentially 2.6-3.1 (unfavorable) in the full GDMT era.
+**The NNT has increased by 100% even before considering SGLT2i** (Figure 3). Meanwhile, the number-needed-to-harm (device complications, inappropriate shocks, lead failures) remains unchanged at approximately 30. The NNT/NNH ratio has deteriorated from 1.1 (favorable) in the historical era to 2.2 (marginal) in the partial GDMT era, and potentially 2.6-3.1 (unfavorable) in the full GDMT era.
 
 ### DANISH Trial: The Contemporary Evidence
 
@@ -231,7 +231,7 @@ The aspirin primary prevention story provides a completed example of exactly thi
 | **Baseline risk (contemporary)** | Vascular events: Substantially lower | SCD: 3.3%/year (6.6% over 2y, 2014) |
 | **Reduction in baseline risk** | Significant decline | 44% decline (1998 → 2014) |
 | **Relative risk reduction** | 12% (unchanged) | 23% (unchanged) |
-| **NNT change** | Increased substantially | +53% (43 → 66, 2014); +91-119% est. (2020+) |
+| **NNT change** | Increased substantially | +22-100% (54 or 33 → 66, 2014); +45-185% est. (2020+) |
 | **NNH (harm)** | Major bleeding: ~100 (unchanged) | Device complications: ~30 (unchanged) |
 | **Modern RCTs** | ARRIVE, ASCEND, ASPREE (2018) | DANISH (2016) |
 | **Result** | All negative | No mortality benefit |
@@ -264,7 +264,7 @@ The control group SCD rate in these trials was 8-10% over 2 years. A pooled anal
 
 **The baseline risk the meta-analyses measured no longer exists.**
 
-When we apply the 23% relative risk reduction to contemporary baseline risk (6.6% in the 2014 partial GDMT era), the NNT becomes 66 (compared to 43-54 historically), representing a 53% increase. With further SCD reductions expected from SGLT2i, the NNT in the current full GDMT era is estimated at 78-94, representing an 81-119% increase. Meanwhile, the harms of ICD implantation—surgical complications, lead failures, inappropriate shocks, psychological burden—remain unchanged.
+When we apply the 23% relative risk reduction to contemporary baseline risk (6.6% in the 2014 partial GDMT era), the NNT becomes 66 (compared to 33-54 historically, depending on baseline), representing a 22-100% increase. With further SCD reductions expected from SGLT2i, the NNT in the current full GDMT era is estimated at 78-94, representing a 45-185% increase. Meanwhile, the harms of ICD implantation—surgical complications, lead failures, inappropriate shocks, psychological burden—remain unchanged.
 
 ### DANISH: The Aspirin Moment for ICDs?
 
@@ -331,9 +331,9 @@ Until such a trial is conducted, we are implanting thousands of ICDs annually ba
 While we await new trials, clinicians face a dilemma:
 - **Guidelines recommend ICDs** based on old meta-analyses (Class I/IIa)
 - **DANISH suggests no benefit** in contemporary populations (even pre-ARNi/SGLT2i)
-- **Documented NNT increase: 43-54 → 66** (53% increase in partial GDMT era, 2014)
-- **Estimated NNT in full GDMT era: 78-94** (81-119% increase vs. historical)
-- **NNT/NNH ratio has worsened** from 1.4-1.8 (historical) to 2.2 (partial GDMT) to potentially 2.6-3.1 (full GDMT), with NNH~30 (Figure 3)
+- **Documented NNT increase: 33-54 → 66** (22-100% increase in partial GDMT era, 2014)
+- **Estimated NNT in full GDMT era: 78-94** (45-185% increase vs. historical)
+- **NNT/NNH ratio has worsened** from 1.1-1.8 (historical) to 2.2 (partial GDMT) to potentially 2.6-3.1 (full GDMT), with NNH~30 (Figure 3)
 
 We propose a **tiered approach** to ICD decision-making in NICM:
 
@@ -366,7 +366,7 @@ If LVEF remains ≤35% despite optimal GDMT, stratify by additional SCD risk mar
 
 #### **Tier 3: Shared Decision-Making**
 Present the uncertainty honestly:
-- *"Historical trials showed ICDs prevent sudden death in 1 out of 43-54 patients treated over 2 years"*
+- *"Historical trials showed ICDs prevent sudden death in 1 out of 33-54 patients treated over 2 years"*
 - *"But those trials were done before your current medications (ARNi, SGLT2i) existed"*
 - *"A modern trial (DANISH) found no survival benefit, even before these newer drugs became standard"*
 - *"Today, based on how much sudden death rates have fallen, we estimate the benefit may be 1 in 66-94 patients—meaningfully smaller"*
@@ -522,13 +522,13 @@ The aspirin reversal took a decade. We should not wait another decade for ICDs.
 ### Figure 3: NNT Inflation and Risk-Benefit Reversal
 
 **Three-panel comparison** showing:
-- **Panel A (Historical Era, 1998)**: NNT bar = 43 (benefit), NNH bar = 30 (harm). Ratio = 1.4 (favorable). Green checkmark.
-- **Panel B (Partial GDMT Era, 2014)**: NNT bar = 66 (benefit, taller), NNH bar = 30 (harm, unchanged). Ratio = 2.2 (marginal). Yellow warning.
-- **Panel C (Full GDMT Era, 2020+ estimated)**: NNT bar = 78-94 (benefit, much taller), NNH bar = 30 (harm, unchanged). Ratio = 2.6-3.1 (unfavorable). Red X.
+- **Panel A (Pre-GDMT Era, 1998, RALES)**: NNT bar = 33 (benefit), NNH bar = 30 (harm). Ratio = 1.1 (highly favorable). Green checkmark.
+- **Panel B (Partial GDMT Era, 2014)**: NNT bar = 66 (benefit, 2× taller), NNH bar = 30 (harm, unchanged). Ratio = 2.2 (marginal). Yellow warning.
+- **Panel C (Full GDMT Era, 2020+ estimated)**: NNT bar = 78-94 (benefit, 2.4-2.8× taller), NNH bar = 30 (harm, unchanged). Ratio = 2.6-3.1 (unfavorable). Red X.
 
-**Visual message**: Benefit bar has progressively increased (43 → 66 → 78-94) while harm bar stays constant, creating increasingly unfavorable risk-benefit profile.
+**Visual message**: Benefit bar has progressively increased (33 → 66 → 78-94) while harm bar stays constant, creating increasingly unfavorable risk-benefit profile.
 
-**Alternative representation**: Tree diagram showing that in historical era, treating 100 patients prevents ~2.3 SCDs but causes ~3 harms (ratio 1:1.3), whereas in partial GDMT era, treating 100 patients prevents ~1.5 SCDs but causes ~3 harms (ratio 1:2), and in full GDMT era, treating 100 patients prevents ~1.1 SCDs but causes ~3 harms (ratio 1:2.7).
+**Alternative representation**: Tree diagram showing that in pre-GDMT era (RALES 1998), treating 100 patients prevents ~3 SCDs but causes ~3.3 harms (ratio 1:1.1), whereas in partial GDMT era, treating 100 patients prevents ~1.5 SCDs but causes ~3.3 harms (ratio 1:2.2), and in full GDMT era, treating 100 patients prevents ~1.1-1.3 SCDs but causes ~3.3 harms (ratio 1:2.5-3).
 
 *See `figures/figure3_nnt_inflation.md` for detailed visual specifications and alternative designs.*
 
