@@ -167,7 +167,7 @@ If we apply the same 23% relative risk reduction from historical meta-analyses t
 | **Partial GDMT (2014)** | 6.6% | 23% | 1.52% | **66** | +53% |
 | **Full GDMT (2020+, est.)** | 4.6-5.3% | 23% | 1.06-1.22% | **82-94** | +91-119% |
 
-**The NNT has increased by 53% even before considering SGLT2i** (Figure 3). Meanwhile, the number-needed-to-harm (device complications, inappropriate shocks, lead failures) remains unchanged at ~20-40. The NNT/NNH ratio has deteriorated from 2.1 (favorable) in the historical era to 3.3 (marginal) in the partial GDMT era, and potentially 4-5 (unfavorable) in the full GDMT era.
+**The NNT has increased by 53% even before considering SGLT2i** (Figure 3). Meanwhile, the number-needed-to-harm (device complications, inappropriate shocks, lead failures) remains unchanged at approximately 30. The NNT/NNH ratio has deteriorated from 1.4 (favorable) in the historical era to 2.2 (marginal) in the partial GDMT era, and potentially 2.6-3.1 (unfavorable) in the full GDMT era.
 
 ### DANISH Trial: The Contemporary Evidence
 
@@ -333,7 +333,7 @@ While we await new trials, clinicians face a dilemma:
 - **DANISH suggests no benefit** in contemporary populations (even pre-ARNi/SGLT2i)
 - **Documented NNT increase: 43-54 → 66** (53% increase in partial GDMT era, 2014)
 - **Estimated NNT in full GDMT era: 78-94** (81-119% increase vs. historical)
-- **NNT/NNH ratio has worsened** from 2.1 (historical) to 3.3 (partial GDMT) to potentially 4-5 (full GDMT) (Figure 3)
+- **NNT/NNH ratio has worsened** from 1.4-1.8 (historical) to 2.2 (partial GDMT) to potentially 2.6-3.1 (full GDMT), with NNH~30 (Figure 3)
 
 We propose a **tiered approach** to ICD decision-making in NICM:
 
@@ -522,9 +522,9 @@ The aspirin reversal took a decade. We should not wait another decade for ICDs.
 ### Figure 3: NNT Inflation and Risk-Benefit Reversal
 
 **Three-panel comparison** showing:
-- **Panel A (Historical Era, 1998)**: NNT bar = 43 (benefit), NNH bar = 30 (harm). Ratio = 2.1 (favorable). Green checkmark.
-- **Panel B (Partial GDMT Era, 2014)**: NNT bar = 66 (benefit, taller), NNH bar = 30 (harm, unchanged). Ratio = 3.3 (marginal). Yellow warning.
-- **Panel C (Full GDMT Era, 2020+ estimated)**: NNT bar = 78-94 (benefit, much taller), NNH bar = 30 (harm, unchanged). Ratio = 4-5 (unfavorable). Red X.
+- **Panel A (Historical Era, 1998)**: NNT bar = 43 (benefit), NNH bar = 30 (harm). Ratio = 1.4 (favorable). Green checkmark.
+- **Panel B (Partial GDMT Era, 2014)**: NNT bar = 66 (benefit, taller), NNH bar = 30 (harm, unchanged). Ratio = 2.2 (marginal). Yellow warning.
+- **Panel C (Full GDMT Era, 2020+ estimated)**: NNT bar = 78-94 (benefit, much taller), NNH bar = 30 (harm, unchanged). Ratio = 2.6-3.1 (unfavorable). Red X.
 
 **Visual message**: Benefit bar has progressively increased (43 → 66 → 78-94) while harm bar stays constant, creating increasingly unfavorable risk-benefit profile.
 
