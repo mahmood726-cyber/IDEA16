@@ -245,7 +245,7 @@ The aspirin primary prevention story provides a completed example of exactly thi
 
 Meta-analyses aggregate evidence across trials, but they carry an implicit assumption: **the populations studied are representative of the populations we treat today**. When background therapy changes dramatically, this assumption fails.
 
-The aspirin primary prevention experience is instructive. The ATT 2009 meta-analysis was methodologically rigorous. It correctly reported a 12% relative risk reduction based on the trials available. But by the time the meta-analysis was published, the therapeutic landscape had already shifted. Statins had become universal. The baseline risk of myocardial infarction in the trials (15-20%) no longer reflected the baseline risk in clinical practice (3-5%).
+The aspirin primary prevention experience is instructive. The ATT 2009 meta-analysis was methodologically rigorous. It correctly reported a 12% relative risk reduction based on the trials available. But by the time the meta-analysis was published, the therapeutic landscape had already shifted. Statins had become universal. The baseline risk of serious vascular events in the trials no longer reflected the substantially lower baseline risk in contemporary clinical practice due to widespread statin use and modern blood pressure control.
 
 When ARRIVE, ASCEND, and ASPREE tested aspirin in contemporary populations, the benefit evaporated. The relative risk reduction could not overcome the new, lower baseline risk. The NNT became infinite. The NNH for bleeding remained unchanged. The risk-benefit calculus had reversed.
 
@@ -299,12 +299,12 @@ But the aspirin precedent shows that **inertia can be overcome when the evidence
 If we conducted a new randomized trial of ICDs vs. no ICD in NICM patients on optimal GDMT (ARNi + SGLT2i + MRA + beta-blocker + CRT if indicated), we predict:
 
 **Control group (no ICD):**
-- SCD rate: ~2.5% over 2 years (based on DAPA-HF, EMPEROR-Reduced)
+- SCD rate: ~4.6-5.6% over 2 years (estimated from DAPA-HF, EMPEROR-Reduced data)
 
 **ICD group:**
-- SCD rate: ~1.9% (23% RRR)
-- Absolute risk reduction: 0.6%
-- **NNT: ~167**
+- SCD rate: ~3.5-4.3% (23% RRR)
+- Absolute risk reduction: 1.1-1.3%
+- **NNT: ~77-91**
 
 **Harms (unchanged):**
 - Device complications: ~3-5%
